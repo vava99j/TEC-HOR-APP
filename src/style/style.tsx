@@ -98,6 +98,7 @@ export function useThemedStyles() {
       borderWidth: 1,
       borderRadius: 10,
       borderColor: "green",
+      color:Colors[theme].text
     },
 
     image: {
